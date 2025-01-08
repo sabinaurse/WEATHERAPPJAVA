@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Bucuresti",
+        "latitude": 44,
+        "longitude": 26,
+        "temperature": 25.0,
+        "forecast": [24.0, 23.0, 22.0],
+        "state": "Clear"
+    },
+    {
+        "name": "Cluj-Napoca",
+        "latitude": 46,
+        "longitude": 23,
+        "temperature": 20.0,
+        "forecast": [19.0, 18.0, 17.0],
+        "state": "Cloudy"
+    },
+    {
+        "name": "Timisoara",
+        "latitude": 45,
+        "longitude": 21,
+        "temperature": 22.0,
+        "forecast": [21.0, 20.0, 19.0],
+        "state": "Sunny"
+    },
+    {
+        "name": "Iasi",
+        "latitude": 47,
+        "longitude": 27,
+        "temperature": 18.0,
+        "forecast": [17.0, 16.0, 15.0],
+        "state": "Rainy"
+    },
+    {
+        "name": "Constanta",
+        "latitude": 44,
+        "longitude": 28,
+        "temperature": 26.0,
+        "forecast": [25.0, 24.0, 23.0],
+        "state": "Clear"
+    }
+]
